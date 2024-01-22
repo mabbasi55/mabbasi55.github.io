@@ -3,7 +3,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #f8c8f2;
+    background-color:#fcb9df;
 }
 
 /* Position the "No" button absolutely within body */
@@ -62,5 +62,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-left: 90px;
+    margin-left: 70px;
+    width: 80px; 
+    height: auto; 
+    
 }
