@@ -62,8 +62,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-left: 80px;
-    width: 60px; 
-    height: auto; 
+    margin-left: 85px;
+    width: auto; 
+    height: 40px; 
     
 }
